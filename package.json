@@ -1,0 +1,53 @@
+{
+  "name": "atlantabot",
+  "version": "3.0.0",
+  "description": "A very complete Discord bot (more than 70 commands) that uses the Discordjs API!",
+  "main": "atlanta.js",
+  "scripts": {
+    "test": "node atlanta.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/AtlantaBot.git"
+  },
+  "author": "Androz2091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/AtlantaBot/issues"
+  },
+  "homepage": "https://github.com/Androz2091/AtlantaBot#readme",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-art": "^1.5.1",
+    "ascii-table": "0.0.9",
+    "asciiart-logo": "^0.2.6",
+    "body-parser": "^1.19.0",
+    "chalk": "^2.4.2",
+    "cookie-parser": "^1.4.4",
+    "date-exists": "^1.0.1",
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "express-useragent": "^1.0.12",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fortnite": "^4.3.2",
+    "generate-password": "^1.4.1",
+    "http": "0.0.0",
+    "klaw": "^3.0.0",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "morgan": "^1.9.1",
+    "node-superfetch": "^0.1.9",
+    "nodemon": "^1.19.0",
+    "opusscript": "0.0.6",
+    "prism-media": "^1.0.2",
+    "quick.db": "^7.0.0-b22",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.29.1",
+    "ytdl-core-discord": "^1.0.3"
+  }
+}
